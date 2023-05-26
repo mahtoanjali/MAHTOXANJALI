@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/itz-star-boi/ShizukaXMusic",
+        "value": "https://t.me/BRANDED_FREE_CC",
         "required": true
       },
       "UPSTREAM_BRANCH": {
