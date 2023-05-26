@@ -221,7 +221,7 @@
 
 <br>
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/yfeavn1V20Q)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/y0t059hDsW8)**</i>
 
 > ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
 
