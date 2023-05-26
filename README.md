@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/issues/WCGKING/BRANDEDXSHIZUKA?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/WCGKING/BRANDEDXSHIZUKA/network/members"> 
-<img src="https://img.shields.io/github/forks/itz-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+<img src="https://img.shields.io/github/forks/WCGKING/BRANDEDXSHIZUKA?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
 <a href="https://pypi.org/project/Telethon/"> 
 <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
