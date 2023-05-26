@@ -6,8 +6,8 @@
 
 <p align="center">
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic"> 
-<img src="https://img.shields.io/github/repo-size/itz-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA"> 
+<img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/itz-star-boi/ShizukaXMusic/commits/prince"> 
 <img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
