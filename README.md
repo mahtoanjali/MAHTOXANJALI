@@ -185,7 +185,7 @@
 
         
 
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/itz-star-boi/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/WCGKING/BRANDEDXSHIZUKA"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
     
 
@@ -205,11 +205,11 @@
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
 
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@a62584854/Khushi-Music-String-Gen?s=app"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 
-<p><a href="https://telegram.dog/STRING_SESSION_MAKER_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://telegram.dog/BRANDEDSTRINGSESSION_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
     
 
@@ -235,7 +235,7 @@
 
    
 
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fitz-star-boi%2FShizukaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fitz-WCGKING%2FBRANDEDXSHIZUKA"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 </details>
 
@@ -245,7 +245,7 @@
 
 <br>
 
-- Get your [Necessary Variables](https://github.com/itz-star-boi/ShizukaXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDXSHIZUKA/blob/main/sample.env)
 
 - Upgrade and Update by :
 
@@ -269,7 +269,7 @@
 
 - Clone the repository by :
 
-`git clone https://github.com/itz-star-boi/ShizukaXMusic && cd ShizukaXMusic`
+`git clone https://github.com/WCGKING/BRANDEDXSHIZUKA && cd BRANDEDXSHIZUKA`
 
 - Install requirements by :
 
@@ -309,13 +309,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
+- [BRANDED KING](https://telegram.dog/BRANDRD_21)
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
+- [BRANDED LINK](https://telegram.dog/BRANDED_LINK)
 
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
+- [BRANDED WORLD](https://github.com/BRANDED_WORLD)
 
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
+- [FREE CC ](https://telegram.dog/BRANDED_FREE_CC)
 
 - [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
 
@@ -337,7 +337,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <a href="https://telegram.me/BRANDED_LINK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://telegram.me/Star_X_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BRANDRD_21"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
