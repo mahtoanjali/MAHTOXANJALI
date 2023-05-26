@@ -9,8 +9,8 @@
 <a href="https://github.com/WCGKING/BRANDEDXSHIZUKA"> 
 <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic/commits/prince"> 
-<img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/WCGKING/BRANDEDXSHIZUKAcommits/prince"> 
+<img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/itz-star-boi/ShizukaXMusic/issues"> 
 <img src="https://img.shields.io/github/issues/itz-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
