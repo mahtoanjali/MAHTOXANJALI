@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://t.me/BRANDED_FREE_CC",
+        "value": "https://github.com/WCGKING/BRANDEDXSHIZUKA",
         "required": true
       },
       "UPSTREAM_BRANCH": {
