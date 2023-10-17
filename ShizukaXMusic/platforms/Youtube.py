@@ -3,12 +3,11 @@ import os
 import re
 from typing import Union
 
-import aiohttp
 import yt_dlp
+from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-import config
 from ShizukaXMusic.utils.database import is_on_off
 from ShizukaXMusic.utils.formatters import time_to_seconds
 
@@ -56,13 +55,13 @@ class YouTubeAPI:
                 break
             if message.entities:
                 for entity in message.entities:
-                    if entity.type == "url":
+                    if entity.type == MessageEntityType.URL:
                         text = message.text or message.caption
                         offset, length = entity.offset, entity.length
                         break
             elif message.caption_entities:
                 for entity in message.caption_entities:
-                    if entity.type == "text_link":
+                    if entity.type == MessageEntityType.TEXT_LINK:
                         return entity.url
         if offset in (None,):
             return None
@@ -322,7 +321,7 @@ class YouTubeAPI:
             fpath = f"downloads/{title}.mp3"
             return fpath
         elif video:
-            if await is_on_off(config.YTDOWNLOADER):
+            if await is_on_off(1):
                 direct = True
                 downloaded_file = await loop.run_in_executor(None, video_dl)
             else:
