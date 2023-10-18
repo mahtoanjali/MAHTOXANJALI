@@ -169,7 +169,7 @@
 
 - [ᴍᴏɴɢᴏᴅʙ URI](https://te.legra.ph/How-To-get-Mongodb-URI-04-06)
 
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/STRING_SESSION_MAKER_BOT)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/BRANDEDSTRINGSESSION_BOT)
 
     
 
@@ -309,21 +309,14 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [BRANDED KING](https://telegram.dog/BRANDRD_21)
+- [BRANDED KING](https://telegram.dog/BRANDRD_BOT)
 
-- [BRANDED LINK](https://telegram.dog/BRANDED_LINK)
+- [BRANDED LINK](https://telegram.dog/BRANDEDKING82)
 
 - [BRANDED WORLD](https://github.com/BRANDED_WORLD)
 
-- [FREE CC ](https://telegram.dog/BRANDED_FREE_CC)
+- [FREE CC ](https://t.me/BRANDED_PAID_CC))
 
-- [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
-
-- [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
-
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 
 </details>
 
@@ -335,9 +328,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 # ❤️ Support<
 
-<a href="https://telegram.me/BRANDED_LINK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/BRANDRD_21"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
