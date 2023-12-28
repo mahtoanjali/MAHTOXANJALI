@@ -1,7 +1,7 @@
 {
     "name": "BRANDED SHIZUKA  BOT",
     "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/90e709718e7dac641aaf7.jpg",
+    "logo": "https://te.legra.ph/file/f86149647158040f4435b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/MAHTOxOFFICIAL",
+        "value": "https://t.me/AnjalixSupportxGroup",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/MAHTOxOFFICIAL",
+        "value": "https://t.me/AnjalixSupportxGroup",
         "required": false
       },
       "PING_IMG_URL": {
