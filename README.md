@@ -245,7 +245,7 @@
 
 <br>
 
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDXSHIZUKA/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/systemx5/MAHTOXANJALI/blob/main/sample.env)
 
 - Upgrade and Update by :
 
