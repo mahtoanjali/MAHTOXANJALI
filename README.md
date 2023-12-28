@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ ──「 sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ 」── ❤️</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -6,17 +6,17 @@
 
 <p align="center">
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA"> 
+<a href="https://github.com/systemx5/MAHTOXANJALI"> 
 <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKAcommits/prince"> 
+<a href="https://github.com/systemx5/MAHTOXANJALIcommits/prince"> 
 <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA/issues"> 
-<img src="https://img.shields.io/github/issues/WCGKING/BRANDEDXSHIZUKA?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/systemx5/MAHTOXANJALI/issues"> 
+<img src="https://github.com/systemx5/MAHTOXANJALI?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA/network/members"> 
-<img src="https://img.shields.io/github/forks/WCGKING/BRANDEDXSHIZUKA?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+<a href="https://github.com/systemx5/MAHTOXANJALI/network/members"> 
+<img src="https://github.com/systemx5/MAHTOXANJALI?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
 <a href="https://pypi.org/project/Telethon/"> 
 <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -25,7 +25,7 @@
 
 > ⭐️ Thanks to everyone for using Shizuka,  🤭 That is the greatest pleasure we have !
 
-## Features Of Shizuka And Commands ❤️
+## Features Of System And Commands ❤️
 
 <details>
 
