@@ -28,7 +28,7 @@ async def main_broadcast_handler(m, db):
         if not broadcast_ids.get(broadcast_id):
             break
     out = await m.reply_text(
-        text="**💡 Bʀᴏᴀᴅᴄᴀsᴛ Sᴛᴀʀᴛᴇᴅ...**\n\n**» Wʜᴇɴ ɪᴛ's ᴅᴏɴᴇ, ʏᴏᴜ'ʟʟ ʙᴇ ɴᴏᴛɪғɪᴇᴅ ʜᴇʀᴇ...!**"
+        text="** Bʀᴏᴀᴅᴄᴀsᴛ Sᴛᴀʀᴛᴇᴅ...**\n\n**» Wʜᴇɴ ɪᴛ's ᴅᴏɴᴇ, ʏᴏᴜ'ʟʟ ʙᴇ ɴᴏᴛɪғɪᴇᴅ ʜᴇʀᴇ...!**"
     )
 
     start_time = time.time()
@@ -64,13 +64,13 @@ async def main_broadcast_handler(m, db):
     await out.delete()
     if failed == 0:
         await m.reply_text(
-            text=f"✅ Bʀᴏᴀᴅᴄᴀsᴛɪɴɢ Cᴏᴍᴘʟᴇᴛᴇᴅ! \n**Completed in:** `{completed_in}` \n\n**Total users:** `{total_users}` \n**Total done:** `{done}` \n**Total success:** `{success}` \n**Total failed:** `{failed}`",
+            text=f" Bʀᴏᴀᴅᴄᴀsᴛɪɴɢ Cᴏᴍᴘʟᴇᴛᴇᴅ! \n**Completed in:** `{completed_in}` \n\n**Total users:** `{total_users}` \n**Total done:** `{done}` \n**Total success:** `{success}` \n**Total failed:** `{failed}`",
             quote=True,
         )
     else:
         await m.reply_document(
             document="broadcast-logs.txt",
-            caption=f"✅ Bʀᴏᴀᴅᴄᴀsᴛɪɴɢ Cᴏᴍᴘʟᴇᴛᴇᴅ! \n**Completed in:** `{completed_in}`\n\n**Total users:** `{total_users}` \n**Total done:** `{done}` \n**Total success:** `{success}` \n**Total failed:** `{failed}`",
+            caption=f" Bʀᴏᴀᴅᴄᴀsᴛɪɴɢ Cᴏᴍᴘʟᴇᴛᴇᴅ! \n**Completed in:** `{completed_in}`\n\n**Total users:** `{total_users}` \n**Total done:** `{done}` \n**Total success:** `{success}` \n**Total failed:** `{failed}`",
             quote=True,
         )
     os.remove("broadcast-logs.txt")
