@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ──「 ᴀɴᴊᴀʟɪ ダ ᴍᴜsɪᴄ 」── ❤️</b></h1>
+<h1 align="center"><b>❤️ ──「 ᴧɴᴊᴀʟɪ ダ ᴍᴜsɪᴄ 」── ❤️</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
