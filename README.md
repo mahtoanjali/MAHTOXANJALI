@@ -1,16 +1,16 @@
-<h1 align="center"><b>❤️ ──「 sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ 」── ❤️</b></h1>
+<h1 align="center"><b>❤️ ──「 ᴀɴᴊᴀʟɪ ダ ᴍᴜsɪᴄ 」── ❤️</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/BRANDRD_21"><img src="https://te.legra.ph/file/aab8ee34e7455ed347c3f.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/QUEENx_GOD"><img src="https://te.legra.ph/file/d2798396f86c0e30f8f51.jpg" width="400"></a></p>
 
 <p align="center">
 
 <a href="https://github.com/systemx5/MAHTOXANJALI"> 
-<img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+<img src="https://img.shields.io/github/repo-size/systemx5/MAHTOXANJALI?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/systemx5/MAHTOXANJALIcommits/prince"> 
-<img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+<img src="https://img.shields.io/github/last-commit/systemx5/MAHTOXANJALI?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/systemx5/MAHTOXANJALI/issues"> 
 <img src="https://github.com/systemx5/MAHTOXANJALI?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -181,7 +181,7 @@
 
 <br>
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ​🇲 🇦 🇭 🇹 🇴 🇶 🇺 🇪 🇪 🇳  ​ ᴧɴᴊᴀʟɪ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
 
         
 
@@ -231,7 +231,7 @@
 
     
 
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ ᴏɴ ʜᴇʀᴏᴋᴜ</h4> 
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ​🇲 🇦 🇭 🇹 🇴  🇶 🇺 🇪 🇪 🇳 ​ ᴏɴ ʜᴇʀᴏᴋᴜ</h4> 
 
    
 
@@ -269,7 +269,7 @@
 
 - Clone the repository by :
 
-`git clone https://github.com/WCGKING/BRANDEDXSHIZUKA && cd BRANDEDXSHIZUKA`
+`git clone https://github.com/systemx5/MAHTOXANJALI && cd MAHTOXANJALI
 
 - Install requirements by :
 
@@ -309,13 +309,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [BRANDED KING](https://telegram.dog/BRANDRD_BOT)
+- [BRANDED KING](https://telegram.dog/AnjalixSupportxGroup)
 
-- [BRANDED LINK](https://telegram.dog/BRANDEDKING82)
+- [BRANDED LINK](https://telegram.dog/QUEENx_GOD)
 
-- [BRANDED WORLD](https://github.com/BRANDED_WORLD)
+- [BRANDED WORLD](https://github.com/AnjalixSupportxGroup)
 
-- [FREE CC ](https://t.me/BRANDED_PAID_CC))
+- [FREE CC ](https://t.me/AnjalixSupportxGroup))
 
 
 </details>
@@ -328,9 +328,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 # ❤️ Support<
 
-<a href="https://telegram.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.me/AnjalixSupportxGroup"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/AnjalixSupportxGroup"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
@@ -342,7 +342,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ sʜɪᴢᴜᴋᴀ:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴧɴᴊᴀʟɪ:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
