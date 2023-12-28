@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6258877205",
+        "value": "6866756579",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/BRANDRD_BOT",
+        "value": "https://t.me/MAHTOxOFFICIAL",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/BRANDED_PAID_CC",
+        "value": "https://t.me/MAHTOxOFFICIAL",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/WCGKING/BRANDEDXSHIZUKA",
+        "value": "https://github.com/systemx5/MAHTOXANJALI",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -107,7 +107,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://github.com/systemx5/MAHTOXANJALI"
           }
       ],
       "formation": {
