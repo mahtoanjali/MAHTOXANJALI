@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ──「 ᴧɴᴊᴀʟɪ ダ ᴍᴜsɪᴄ 」── ❤️</b></h1>
+<h1 align="center"><b>❤️ ──「 ᴧɴᴊᴀʟɪ ꭙ ᴍᴜsɪᴄ 」──❤️</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -169,7 +169,7 @@
 
 - [ᴍᴏɴɢᴏᴅʙ URI](https://te.legra.ph/How-To-get-Mongodb-URI-04-06)
 
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/BRANDEDSTRINGSESSION_BOT)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/AnjaliStringSessionGeneratorBot)
 
     
 
@@ -185,7 +185,7 @@
 
         
 
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/WCGKING/BRANDEDXSHIZUKA"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/mahtoanjali/MAHTOXANJALI"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
     
 
@@ -205,11 +205,11 @@
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
 
-<p><a href="https://replit.com/@a62584854/Khushi-Music-String-Gen?s=app"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@a62584854/Anjali-Music-String-Gen?s=app"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 
-<p><a href="https://telegram.dog/BRANDEDSTRINGSESSION_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://telegram.dog/AnjaliStringSessionGeneratorBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
     
 
@@ -221,7 +221,7 @@
 
 <br>
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/y0t059hDsW8)**</i>
+<i>**[Watch Deploying Tutorial...](https://t.me/QUEENx_GOD)**</i>
 
 > ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
 
