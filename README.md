@@ -309,13 +309,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [BRANDED KING](https://telegram.dog/AnjalixSupportxGroup)
+- [MAHTO ANJALI](https://telegram.dog/AnjalixSupportxGroup)
 
-- [BRANDED LINK](https://telegram.dog/QUEENx_GOD)
+- [MAHTI LINK](https://telegram.dog/QUEENx_GOD)
 
-- [BRANDED WORLD](https://github.com/AnjalixSupportxGroup)
+- [ANJALI WORLD](https://github.com/AnjalixSupportxGroup)
 
-- [FREE CC ](https://t.me/AnjalixSupportxGroup))
+- [ANJALI SUPPORT ](https://t.me/AnjalixSupportxGroup))
 
 
 </details>
